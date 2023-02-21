@@ -29,16 +29,10 @@
       }
     },
     "category": {
-      "string": [
-        "one",
-        "two",
-        "three"
-      ]
+      "string": ["one", "two", "three"]
     },
     "isDraft": {
-      "boolean": {
-        
-      }
+      "boolean": {}
     },
     "views": {
       "int": {
